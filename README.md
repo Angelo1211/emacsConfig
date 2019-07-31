@@ -1,0 +1,1 @@
+This is my emacs config. I'm working towards making this my ideal coding environemnet for c/c++/graphics. It's a work in progress so expect the usual weirdness/crappiness while it's being worked on. I will take suggestions/tips!
